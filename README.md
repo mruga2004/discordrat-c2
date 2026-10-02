@@ -70,4 +70,5 @@ Role: M.Sc. Student in Digital Forensics and Cyber Security
 
 Focus: Ethical Hacking, Threat Analysis, and Incident Response
 
-GitHub: mruga2004
+GitHub: Mruga Gajjar
+
