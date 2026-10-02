@@ -33,7 +33,6 @@ Key logs captured during the simulation phase that defenders look for:
 ---
 
 ## Defensive Detection & Mitigation (Sigma Rule Example)
-To demonstrate a comprehensive "Purple Team" mindset, every offensive simulation should be paired with a detection mechanism. Below is a sample **Sigma rule** designed to detect anomalous shell spawning behavior identified during this lab:
 
 ```yaml
 title: Suspicious Child Process Spawned From Application Context
@@ -61,3 +60,14 @@ detection:
 falsepositives:
   - Legitimate administrative macros or automated enterprise update scripts.
 level: high
+```
+
+Disclaimer
+All testing documented in this repository was conducted strictly within an isolated, offline virtual laboratory environment (Windows 10 VM) for educational and research purposes in compliance with ethical hacking and authorized penetration testing methodologies.
+
+Connect With Me
+Role: M.Sc. Student in Digital Forensics and Cyber Security
+
+Focus: Ethical Hacking, Threat Analysis, and Incident Response
+
+GitHub: Your-GitHub-Username
